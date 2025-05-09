@@ -1,4 +1,4 @@
-# arch
+# project-archive
 
 ## Project setup
 ```
